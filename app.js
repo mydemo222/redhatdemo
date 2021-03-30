@@ -1,1 +1,1 @@
-console.log("Hello Javascript!!!! \n");
+console.log("Hello Javascripts!!!! \n");
